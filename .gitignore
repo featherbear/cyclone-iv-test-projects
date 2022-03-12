@@ -1,0 +1,4 @@
+*.qws
+/**/incremental_db/
+/**/db/
+/**/output_files/
